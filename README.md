@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pyNeophyte
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning flask framework
+- 💞️ I’m looking to collaborate on nothing(for now)
+- 📫 How to reach me programmingduck2030@gmail.com
